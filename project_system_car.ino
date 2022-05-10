@@ -1,6 +1,7 @@
 /*
  *The main file of the project. 
  */
+//17 for going strait
 #include "pin_name.h"
 #include "obs_detect.h"
 #include "line_detect.h"
