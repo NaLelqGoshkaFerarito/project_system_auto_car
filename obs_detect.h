@@ -1,6 +1,9 @@
-/*
- * This file for calculating obstacle detection
- */
+/**************************************************************
+ * Author: Hoang Minh Lê
+ * Description: This file is for calculating obstacle detection
+ * Date: 15 May 2022
+ *************************************************************/
+
 #ifndef OBS_DETECT_H
 #define OBS_DETECT_H
  #include "pin_name.h"

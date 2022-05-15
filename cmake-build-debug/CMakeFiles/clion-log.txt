@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\vladi\Documents\GitHub\project_system_auto_car Select CMakeLists.txt

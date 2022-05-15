@@ -1,6 +1,9 @@
-/*
- * This file is to define which pin is used for which sensor
- */
+/*******************************************************************
+ * Author: Hoang Minh Lê
+ * Description: This file defines which pin is used for which sensor
+ * Date: 15 May 2022
+ ******************************************************************/
+
 #ifndef PIN_NAME_H
 #define PIN_NAME_H
 

@@ -1,0 +1,3 @@
+/mnt/c/Users/vladi/Documents/GitHub/project_system_auto_car/cmake-build-debug/CMakeFiles/project_system_auto_car.dir
+/mnt/c/Users/vladi/Documents/GitHub/project_system_auto_car/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vladi/Documents/GitHub/project_system_auto_car/cmake-build-debug/CMakeFiles/rebuild_cache.dir

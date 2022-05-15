@@ -1,17 +1,15 @@
-/*
- * This file contain functions to control speed and direction of 
- * the car
- */
+/***********************************************************
+ * Author: Hoang Minh Lê
+ * Description: This file contain functions to
+ *              control speed and direction of the car
+ * Date: 15 May 2022
+ **********************************************************/
 #ifndef MOTOR_CONTROL_H
 #define MOTOR_CONTROL_H
 #include "pin_name.h"
 
-extern void turn_left(uint8_t degree){
+extern void turn(uint8_t degree){
   myServo.write(degree);
-}
-
-extern void turn_right(uint8_t degree){
-  myServo.write(180-degree);
 }
 
 extern void motor(uint8_t car_speed, char state){
