@@ -30,19 +30,7 @@ extern bool mid(){
     return data_m && !data_l && !data_r;
 }
 
-extern bool left(){
+extern bool left() {
     return !data_r && data_l;
-=======
-extern bool right(){
-  return !(digitalRead(rig_ir)&&!digitalRead(left_ir));
-}
-
-extern bool left(){
-  return !(digitalRead(left_ir)&&!digitalRead(rig_ir));
-}
-
-extern bool mid(){
-  return !(digitalRead(mid_ir)&&!digitalRead(rig_ir)&&!digitalRead(left_ir));
->>>>>>> b78cdd3d9de81e47ebd8794eb97d171f67798616
 }
 #endif
